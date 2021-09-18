@@ -4,7 +4,7 @@
 
 
 ```bash
-!git clone --recurse-submodules https://github.com/artchoi/KoGPT2-chatbot.git
+!git clone https://github.com/artchoi/KoGPT2-chatbot.git
 !cd KoGPT2-chatbot
 !pip install -r requirements.txt 
 ```
