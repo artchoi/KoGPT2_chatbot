@@ -5,7 +5,7 @@
 
 ```bash
 !git clone https://github.com/artchoi/KoGPT2_chatbot.git
-cd KoGPT2_chatbot
+%cd KoGPT2_chatbot
 !pip install -r requirements.txt 
 ```
 
