@@ -61,8 +61,4 @@ user > 너를 만든 사람은?
 Simsimi > 당신이 만든 사람이에요.
 ```
 
-## Colab tutorials
-
-- PyTorch
-  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/haven-jeon/KoGPT2-chatbot/blob/master/KoGPT2_chatbot_pytorch.ipynb)
 
