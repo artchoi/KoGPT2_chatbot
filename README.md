@@ -18,22 +18,21 @@
 
 
 ```bash
-git clone --recurse-submodules https://github.com/haven-jeon/KoGPT2-chatbot.git
-cd KoGPT2-chatbot
-pip3 install -r requirements.txt 
+!git clone --recurse-submodules https://github.com/artchoi/KoGPT2-chatbot.git
+!cd KoGPT2-chatbot
+!pip install -r requirements.txt 
 ```
 
 ## How to Train
 
 ```bash
-CUDA_VISIBLE_DEVICES=0 python train_torch.py --gpus 1 --train --max_epochs 2
+!CUDA_VISIBLE_DEVICES=0 python train_torch.py --gpus 1 --train --max_epochs 2
 ```
 
 ## How to Chat!
 
 ```bash
-# CUDA_VISIBLE_DEVICES=0 python train.py --chat
-CUDA_VISIBLE_DEVICES=0 python train_torch.py --gpus 1 --chat
+!CUDA_VISIBLE_DEVICES=0 python train_torch.py --gpus 1 --chat
 user > 대박 
 Simsimi > 잘 될 거예요.
 
