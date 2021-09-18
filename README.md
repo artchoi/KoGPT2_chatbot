@@ -1,4 +1,5 @@
 # KoGPT2
+https://github.com/haven-jeon/KoGPT2-chatbot 를 참조하였습니다.
 
 ## Install
 
